@@ -3,3 +3,5 @@ Actividad 3: Hola soy Leila
 Actividad 6:
 Debemos elegir un archivo, editarlo y volver a subirlo. Lo mismo deben hacer las otras compañeras.
 Luego verificar que tengamos los cambios de nuestras compañeras,  en nuestro repositorio local.
+
+Se agrega modificación sin actualizar la modificación antes relizada por mi compañera
